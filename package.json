@@ -1,0 +1,23 @@
+{
+  "name": "ch3",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ant-design/icons": "^5.2.5",
+    "antd": "^5.8.4",
+    "next": "^12.3.4",
+    "next-redux-wrapper": "^8.1.0",
+    "prop-types": "^15.8.1",
+    "react-redux": "^8.1.2",
+    "react-slick": "^0.29.0",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "styled-components": "^6.0.7"
+  }
+}
